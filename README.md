@@ -37,7 +37,7 @@ You can install these tools via their respective installation methods, typically
 To use the script, run it with a domain name as an argument:
 <pre>
 <code class="language-bash">
-  ./script.sh example.com
+  ./OSINT-script.sh example.com
 </code>
 </pre>
   

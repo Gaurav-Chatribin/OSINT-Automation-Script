@@ -31,7 +31,7 @@ You can install these tools via their respective installation methods, typically
 
 2. Make the script executable:
    ```bash
-   chmod +x script.sh
+   chmod +x OSINT-script.sh
 
 ## Usage
 To use the script, run it with a domain name as an argument:
